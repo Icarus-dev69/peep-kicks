@@ -1,0 +1,16 @@
+.contact-page-or{
+    margin: 40px 0;
+}
+
+.contact-page-socials{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    justify-content: center;
+}
+
+.contact-page-social-icons{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
